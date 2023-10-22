@@ -16,4 +16,13 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+footer {
+  background-color: blue;
+  ::v-deep {
+    span {
+      color: red;
+    }
+  }
+}
+</style>
