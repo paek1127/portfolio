@@ -1,5 +1,5 @@
 <template>
-  <headerComponent>111333</headerComponent>
+  <headerComponent>1</headerComponent>
   <footerComponent></footerComponent>
 </template>
 
